@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WishTime</string>
+    <string name="alarm_on_text">Alarm On!</string>
+    <string name="alarm_off_text">Alarm Off!</string>
+</resources>
